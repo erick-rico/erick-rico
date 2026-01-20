@@ -1,17 +1,22 @@
 ## Hi there 👋
 
-I'm **Erick Rico Esparza**, a civil engineer turned environmental data enthusiast.
+I'm **Erick Rico Esparza**, an environmental engineer with a background in civil engineering and a growing specialization in **atmospheric and air-quality data analysis**.
 
-After studying Civil Engineering at the National Autonomous University of Mexico (UNAM) and working in construction, I pursued a Master's in Environmental Engineering at Tampere University in Finland. There, I discovered my passion for programming, data analysis, and GIS applied to environmental challenges.
+I hold a BSc in Civil Engineering from the National Autonomous University of Mexico (UNAM) and I am currently completing an **MSc in Environmental Engineering at Tampere University (Finland)**. During my graduate studies, my interests gradually shifted from general environmental engineering toward **atmospheric sciences, synoptic meteorology, and air-pollution dynamics**, driven by hands-on research and data analysis.
 
-Currently, I'm studying my third semester at City University of Hong Kong as an exchange student, where I’m taking specialized courses — such as Introduction to Energy and Environmental Data Analysis, Climate Change and Extreme Weather and a research project on Meteorological Data Analysis under Prof. Jung-Eun CHU guidance — to eventually work on a thesis focused on environmental data science. In the past few months, I’ve strengthened my foundations through self-study and hands-on practice with Python, climate data, and spatial analysis, especially, exploring tools and libraries like **xarray**, **cartopy**, **metpy**, and working through resources such as *Think Stats*, *Think Python*, *Python for Data Analysis*, and *100 Days of Code*.
+As part of my MSc, I completed a **postgraduate exchange at City University of Hong Kong**, where I carried out a **research project in meteorological and environmental data analysis under the supervision of Prof. Jung-Eun Chu**. Through this project, I worked extensively with **reanalysis data, circulation patterns, and composite analysis** to study air-pollution variability, which strongly shaped my current research direction and long-term academic interests.
 
-I enjoy working with Python, spatial data, and open datasets to explore and understand environmental phenomena. My goal is to contribute to sustainable solutions through data-driven insights.
+Building on that experience, I am now working on my **Master’s thesis**, supervised externally by **Prof. Jung-Eun Chu**, internally by **Miikka (Tampere University)**, and with academic guidance from the **Institute of Atmospheric Sciences and Climate Change (ICAyCC, UNAM)**. My thesis focuses on the **synoptic and sub-seasonal circulation patterns associated with extreme PM₂.₅ and PM₁₀ pollution episodes over the Valley of Mexico, and their modulation by ENSO**, combining air-quality observations with large-scale atmospheric diagnostics.
 
-While my main focus is Python, I also have some experience with tools like **R**, **Julia**, **SQL**, and **Power BI**, which I will use to complement my data analysis workflows in my future projects.
+I am particularly interested in **reanalysis-based studies**, **circulation regime classification**, and **composite analysis** at multiple time scales. I am continuously improving my workflow for handling **NetCDF data**, working with large atmospheric datasets, and producing physically interpretable and reproducible analyses using **Python** and open-source tools such as **xarray**, **cartopy**, **metpy**, **pandas**, and **numpy**.
 
-Feel free to explore my repositories — they reflect my learning journey and growing expertise in environmental data analysis.
+I enjoy exploring how **large-scale circulation, boundary-layer processes, and climate variability** interact to shape air-pollution extremes. My goal is to contribute to research that strengthens the physical understanding of pollution episodes and supports evidence-based environmental and climate studies.
 
-📫 Reach me at: erickrico.eng@outlook.com  
+In addition to Python, I have experience with **R**, **Julia**, **SQL**, and **Power BI**, which I use as complementary tools depending on the analysis needs.
+
+Feel free to explore my repositories — they document my research work, coursework, and ongoing learning in **atmospheric and environmental data science**.
+
+If you would like to know more about my academic background, coursework, or research experience, feel free to contact me. I would be happy to share my **academic CV** and/or connect via **LinkedIn**.
+
+📫 Reach me at: **erickrico.eng@outlook.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/erickricoe/)
-
