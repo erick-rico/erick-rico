@@ -14,7 +14,7 @@ I enjoy exploring how large-scale circulation, boundary-layer processes, and cli
 
 In addition to Python, I have experience with R, Julia, MATLAB, SQL, and Power BI, which I use as complementary tools depending on the analysis needs.
 
-Feel free to explore my repositories — they document my research work, coursework, and ongoing learning in atmospheric and environmental data science.
+Feel free to explore my repositories: they document my research work, coursework, and ongoing learning in atmospheric and environmental data science.
 
 If you would like to know more about my academic background, coursework, or research experience, feel free to contact me. I would be happy to share my academic CV and/or connect via LinkedIn.
 
