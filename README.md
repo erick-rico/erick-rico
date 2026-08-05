@@ -2,7 +2,7 @@
 
 I'm Erick Rico Esparza, an environmental engineer with a background in civil engineering and a growing specialization in atmospheric and air-quality data analysis.
 
-I hold a BSc in Civil Engineering from the National Autonomous University of Mexico (UNAM) and I have just completed an MSc in Environmental Engineering at Tampere University (Finland). During my graduate studies, my interests gradually shifted from general environmental engineering toward atmospheric sciences, synoptic meteorology, and air-pollution dynamics, driven by hands-on research and data analysis.
+I hold a Bachelor's Degree in Civil Engineering from the National Autonomous University of Mexico (UNAM) and I have just completed an Master of Science (Technology) in Environmental Engineering at Tampere University (Finland). During my graduate studies, my interests gradually shifted from general environmental engineering toward atmospheric sciences, synoptic meteorology, and air-pollution dynamics, driven by hands-on research and data analysis.
 
 As part of my MSc, I completed a postgraduate exchange at City University of Hong Kong, where I carried out a research project in meteorological and environmental data analysis under the supervision of Prof. Jung-Eun Chu. Through this project, I worked extensively with reanalysis data, circulation patterns, and composite analysis** to study air-pollution variability, which strongly shaped my current research direction and long-term academic interests.
 
